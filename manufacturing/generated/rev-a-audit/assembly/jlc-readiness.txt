@@ -1,0 +1,28 @@
+Revision A JLCPCB assembly readiness
+====================================
+
+STATUS: NOT READY FOR PCBA UPLOAD
+
+Requested assembled prototype quantity: 2
+Board coordinate origin used: X=20.0 mm, Y=20.0 mm
+JLC SMT candidates: 92
+DNP footprints excluded: 6
+PCB features excluded: 31
+Required manual/wave-assembly connectors: 5
+
+Release blockers:
+- Confirm JLC accepts 2 assembled boards for this Standard PCBA mixed-process order.
+- J60 and L2 were changed to verified alternatives in D079; L1 was changed to high-stock WPN4020H2R2MT/C98361 in D080. Re-check live stock when ordering.
+- Recheck all exact-part stock and reserve/global-source shortages before release.
+- Obtain written responses to manufacturing/jlcpcb-support-request.md.
+- Confirm JLC manual/wave assembly for J1/J10/J20/J40/J60; all five are required in BOM and CPL.
+- Confirm J60 RCJ-014 through-hole/wave assembly and all four round plated holes.
+- Complete physical 1:1 fit checks for all through-hole/mixed-process connectors before the assembly order.
+- Re-run ERC, DRC, Gerber/drill review, and rotation/polarity review after any change.
+
+Accepted prototype risks (not release blockers):
+- Composite-video waveform and JVC compatibility validation is owner-deferred to assembled-board bring-up; no functional pass is claimed.
+
+References with approved catalog identities: 97
+References still lacking approved LCSC numbers (0):
+

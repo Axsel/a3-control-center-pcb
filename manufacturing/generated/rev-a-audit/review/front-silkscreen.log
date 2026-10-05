@@ -1,0 +1,288 @@
+
+** (process:89275): CRITICAL **: 10:36:57.459: Unknown RS-274X extension found %TF% at line 1 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.459: Unknown RS-274X extension found %TF% at line 2 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.459: Unknown RS-274X extension found %TF% at line 3 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.459: Unknown RS-274X extension found %TF% at line 4 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.459: Unknown RS-274X extension found %TF% at line 5 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.459: Unknown RS-274X extension found %TF% at line 6 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6399 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6410 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6421 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6426 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6431 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6457 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6462 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6473 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6478 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6483 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6491 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6497 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6502 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6507 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6512 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6517 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6522 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6527 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6532 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6556 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6561 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6566 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6590 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6595 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6606 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6611 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6616 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6640 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6668 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6673 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.460: Unknown RS-274X extension found %TO% at line 6678 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6689 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6694 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6699 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6727 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6738 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6762 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6767 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6772 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6777 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6782 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6787 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6792 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6809 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6814 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6819 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6826 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6837 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6842 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6847 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6852 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6863 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6868 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6873 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6878 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6883 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6904 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6909 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6933 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6962 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6988 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 6993 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 7010 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 7015 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 7036 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.461: Unknown RS-274X extension found %TO% at line 7047 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7052 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7063 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7068 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7073 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7084 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7110 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7115 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7120 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7125 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7145 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7150 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7155 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7160 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7165 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7170 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7194 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7223 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7228 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7257 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7268 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7273 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7278 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7307 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7314 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7342 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7347 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7352 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7357 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7368 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7373 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7378 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7383 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7388 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7452 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7457 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.462: Unknown RS-274X extension found %TO% at line 7462 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7467 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7472 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7483 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7488 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7499 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7504 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7509 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7520 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7525 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7536 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7562 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7573 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7578 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7583 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7600 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7617 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7622 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7627 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7638 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7666 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7695 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7700 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7705 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7710 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7715 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7744 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7749 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.463: Unknown RS-274X extension found %TO% at line 7760 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.464: Unknown RS-274X extension found %TD% at line 7771 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-F_Silkscreen.gto"
+
+** (process:89275): CRITICAL **: 10:36:57.464: Unknown RS-274X extension found %TF% at line 1 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"
+
+** (process:89275): CRITICAL **: 10:36:57.464: Unknown RS-274X extension found %TF% at line 2 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"
+
+** (process:89275): CRITICAL **: 10:36:57.464: Unknown RS-274X extension found %TF% at line 3 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"
+
+** (process:89275): CRITICAL **: 10:36:57.464: Unknown RS-274X extension found %TF% at line 4 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"
+
+** (process:89275): CRITICAL **: 10:36:57.464: Unknown RS-274X extension found %TF% at line 5 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"
+
+** (process:89275): CRITICAL **: 10:36:57.464: Unknown RS-274X extension found %TA% at line 13 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"
+
+** (process:89275): CRITICAL **: 10:36:57.464: Unknown RS-274X extension found %TD% at line 15 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"

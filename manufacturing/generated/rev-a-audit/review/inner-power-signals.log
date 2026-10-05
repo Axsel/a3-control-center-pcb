@@ -1,0 +1,318 @@
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TF% at line 1 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TF% at line 2 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TF% at line 3 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TF% at line 4 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TF% at line 5 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TF% at line 6 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TA% at line 17 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TD% at line 19 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TA% at line 20 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TD% at line 22 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TA% at line 23 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TD% at line 25 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TA% at line 26 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TD% at line 28 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TA% at line 29 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TD% at line 31 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TA% at line 32 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TD% at line 34 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TA% at line 35 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TD% at line 37 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.676: Unknown RS-274X extension found %TA% at line 38 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TD% at line 40 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TA% at line 41 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TD% at line 43 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TA% at line 44 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TD% at line 46 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TA% at line 47 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TD% at line 49 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TA% at line 50 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TD% at line 52 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TA% at line 53 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TD% at line 55 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TA% at line 56 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TD% at line 58 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TA% at line 59 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TD% at line 61 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TA% at line 62 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TD% at line 64 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TA% at line 65 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TD% at line 67 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TO% at line 70 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TO% at line 71 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TO% at line 76 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TD% at line 78 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TO% at line 80 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TO% at line 81 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TO% at line 84 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TO% at line 86 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TD% at line 88 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TO% at line 90 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TO% at line 91 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TO% at line 94 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TO% at line 96 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TD% at line 98 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TO% at line 100 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TO% at line 101 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TD% at line 109 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TO% at line 111 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.677: Unknown RS-274X extension found %TO% at line 112 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TD% at line 125 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 127 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 128 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TD% at line 133 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 135 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 136 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 139 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 141 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 143 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TD% at line 145 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 147 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 156 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 234 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 236 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 239 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 269 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 271 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 276 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 286 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 290 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 294 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 297 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 303 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 311 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 320 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 324 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 340 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 343 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 346 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 349 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 352 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 358 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 364 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 367 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 371 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.678: Unknown RS-274X extension found %TO% at line 375 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 378 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 381 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 385 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 392 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 400 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 403 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 406 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 409 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 412 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 415 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 421 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 424 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 427 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 432 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 436 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 439 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 442 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 445 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 448 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 457 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 464 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 470 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 477 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 481 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TD% at line 485 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 486 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 512 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 522 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 622 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 635 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 640 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 646 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 662 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.679: Unknown RS-274X extension found %TO% at line 676 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 684 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 695 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 726 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 734 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 743 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 750 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 755 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 760 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 767 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 774 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 779 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 788 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 793 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 798 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 805 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 816 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 819 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 826 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 831 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 844 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 847 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TO% at line 852 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TD% at line 855 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Power and slow signals.g2"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TF% at line 1 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TF% at line 2 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TF% at line 3 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TF% at line 4 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TF% at line 5 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TA% at line 13 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"
+
+** (process:89281): CRITICAL **: 10:36:57.680: Unknown RS-274X extension found %TD% at line 15 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"

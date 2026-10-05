@@ -1,0 +1,135 @@
+Designator,Comment,Footprint,Population,Manufacturer Part,Layer,X from board left,Y from board top,Rotation CCW,Notes
+C1,4.7nF 1kV C0G | FV32N472J102EFG,C_1210_3225Metric,JLC_SMT_CANDIDATE,FV32N472J102EFG,Top,7.500,57.500,90.0,Candidate for JLC SMT assembly
+C2,4.7uF,C_0805_2012Metric,JLC_SMT_CANDIDATE,CL21B475KOFNNNE,Top,12.500,57.000,0.0,Candidate for JLC SMT assembly
+C3,100nF,C_0603_1608Metric,JLC_SMT_CANDIDATE,CL10B104KB8NNNC,Top,16.000,57.000,0.0,Candidate for JLC SMT assembly
+C4,1uF,C_0805_2012Metric,JLC_SMT_CANDIDATE,CL21B105KAFNNNE,Top,5.000,32.000,270.0,Candidate for JLC SMT assembly
+C5,47uF,C_1210_3225Metric,JLC_SMT_CANDIDATE,CL32A476KPJNNNE,Top,24.000,57.000,0.0,Candidate for JLC SMT assembly
+C6,100nF,C_0603_1608Metric,JLC_SMT_CANDIDATE,CL10B104KB8NNNC,Top,16.000,43.000,90.0,Candidate for JLC SMT assembly
+C7,10uF,C_0805_2012Metric,JLC_SMT_CANDIDATE,CL21A106KAYNNNE,Top,13.500,36.500,0.0,Candidate for JLC SMT assembly
+C8,100nF,C_0603_1608Metric,JLC_SMT_CANDIDATE,CL10B104KB8NNNC,Top,13.500,39.500,0.0,Candidate for JLC SMT assembly
+C9,22uF,C_0805_2012Metric,JLC_SMT_CANDIDATE,CL21A226MPQNNNE,Top,28.000,35.500,180.0,Candidate for JLC SMT assembly
+C10,100nF,C_0603_1608Metric,JLC_SMT_CANDIDATE,CL10B104KB8NNNC,Top,27.500,39.500,180.0,Candidate for JLC SMT assembly
+C11,3.3nF,C_0603_1608Metric,JLC_SMT_CANDIDATE,C0603C332J5GACTU,Top,17.000,32.000,90.0,Candidate for JLC SMT assembly
+C12,100nF,C_0603_1608Metric,JLC_SMT_CANDIDATE,CL10B104KB8NNNC,Top,37.500,35.000,0.0,Candidate for JLC SMT assembly
+C13,22uF 16V,C_0805_2012Metric,JLC_SMT_CANDIDATE,CL21A226MOQNNNE,Top,36.500,44.000,0.0,Candidate for JLC SMT assembly
+C14,22uF 16V,C_0805_2012Metric,JLC_SMT_CANDIDATE,CL21A226MOQNNNE,Top,40.000,44.000,0.0,Candidate for JLC SMT assembly
+C15,22uF 16V,C_0805_2012Metric,JLC_SMT_CANDIDATE,CL21A226MOQNNNE,Top,44.000,44.000,0.0,Candidate for JLC SMT assembly
+C16,10uF,C_0603_1608Metric,JLC_SMT_CANDIDATE,CL10A106MA8NRNC,Top,41.000,41.000,90.0,Candidate for JLC SMT assembly
+C17,10uF,C_0805_2012Metric,JLC_SMT_CANDIDATE,CL21A106KAYNNNE,Top,37.500,31.500,0.0,Candidate for JLC SMT assembly
+C18,10uF,C_0805_2012Metric,JLC_SMT_CANDIDATE,CL21A106KAYNNNE,Top,42.500,31.500,0.0,Candidate for JLC SMT assembly
+C19,10uF,C_0603_1608Metric,JLC_SMT_CANDIDATE,CL10A106MA8NRNC,Top,41.000,34.000,0.0,Candidate for JLC SMT assembly
+C20,1uF,C_0805_2012Metric,JLC_SMT_CANDIDATE,CL21B105KAFNNNE,Top,12.500,12.000,0.0,Candidate for JLC SMT assembly
+C21,10uF,C_0805_2012Metric,JLC_SMT_CANDIDATE,CL21A106KAYNNNE,Top,12.500,7.500,0.0,Candidate for JLC SMT assembly
+C22,100nF,C_0603_1608Metric,JLC_SMT_CANDIDATE,CL10B104KB8NNNC,Top,12.500,9.800,0.0,Candidate for JLC SMT assembly
+C23,100uF low-ESR,C_1210_3225Metric,JLC_SMT_CANDIDATE,CL32A107MPVNNNE,Top,28.000,28.500,0.0,Candidate for JLC SMT assembly
+C30,100nF,C_0603_1608Metric,JLC_SMT_CANDIDATE,CL10B104KB8NNNC,Top,50.800,8.600,0.0,Candidate for JLC SMT assembly
+C31,1uF,C_0805_2012Metric,JLC_SMT_CANDIDATE,CL21B105KAFNNNE,Top,50.500,14.000,0.0,Candidate for JLC SMT assembly
+C40,100nF,C_0603_1608Metric,JLC_SMT_CANDIDATE,CL10B104KB8NNNC,Top,60.000,14.000,180.0,Candidate for JLC SMT assembly
+C41,1uF,C_0805_2012Metric,JLC_SMT_CANDIDATE,CL21B105KAFNNNE,Top,54.000,16.000,0.0,Candidate for JLC SMT assembly
+C42,100nF,C_0603_1608Metric,JLC_SMT_CANDIDATE,CL10B104KB8NNNC,Top,58.000,16.000,0.0,Candidate for JLC SMT assembly
+C43,18pF C0G,C_0603_1608Metric,JLC_SMT_CANDIDATE,CL10C180JB8NNNC,Top,46.500,29.500,0.0,Candidate for JLC SMT assembly
+C44,18pF C0G,C_0603_1608Metric,JLC_SMT_CANDIDATE,CL10C180JB8NNNC,Top,44.000,21.000,0.0,Candidate for JLC SMT assembly
+C45,100nF,C_0603_1608Metric,JLC_SMT_CANDIDATE,CL10B104KB8NNNC,Top,68.000,14.000,0.0,Candidate for JLC SMT assembly
+C46,1uF,C_0805_2012Metric,JLC_SMT_CANDIDATE,CL21B105KAFNNNE,Top,66.000,31.000,0.0,Candidate for JLC SMT assembly
+C60,100nF X7R FIT,C_0805_2012Metric,JLC_SMT_CANDIDATE,CC0805KRX7R9BB104,Top,64.000,49.000,0.0,Candidate for JLC SMT assembly
+C61,100nF,C_0603_1608Metric,JLC_SMT_CANDIDATE,CL10B104KB8NNNC,Top,68.000,57.000,0.0,Candidate for JLC SMT assembly
+C62,1uF,C_0805_2012Metric,JLC_SMT_CANDIDATE,CL21B105KAFNNNE,Top,74.000,57.000,0.0,Candidate for JLC SMT assembly
+C63,470uF 6.3V EEEFK0J471GP DNP,CP_Elec_8x10,DNP,,Top,71.000,64.000,0.0,Do not populate in Revision A default build
+D10,STATUS GREEN,LED_0603_1608Metric,JLC_SMT_CANDIDATE,LTST-C191KGKT,Top,8.500,23.000,0.0,Candidate for JLC SMT assembly
+D20,PESD2CAN24T-Q,SOT-23,JLC_SMT_CANDIDATE,PESD2CAN24T-Q,Top,66.500,7.500,90.0,Candidate for JLC SMT assembly
+D40,PESD2CAN24T-Q,SOT-23,JLC_SMT_CANDIDATE,PESD2CAN24T-Q,Top,76.000,27.000,90.0,Candidate for JLC SMT assembly
+D60,HPESD5V0U1BA-Q,D_SOD-323,JLC_SMT_CANDIDATE,HPESD5V0U1BA-Q,Top,84.000,50.000,90.0,Candidate for JLC SMT assembly
+H1,MountingHole_3.2mm_M3,MountingHole_3.2mm_M3,PCB_FEATURE,,Top,4.000,12.000,0.0,Fabricated pad/feature; not a purchased placement
+H2,MountingHole_3.2mm_M3,MountingHole_3.2mm_M3,PCB_FEATURE,,Top,96.000,4.000,0.0,Fabricated pad/feature; not a purchased placement
+H3,MountingHole_3.2mm_M3,MountingHole_3.2mm_M3,PCB_FEATURE,,Top,4.000,66.000,0.0,Fabricated pad/feature; not a purchased placement
+H4,MountingHole_3.2mm_M3,MountingHole_3.2mm_M3,PCB_FEATURE,,Top,96.000,39.000,0.0,Fabricated pad/feature; not a purchased placement
+J1,USB4105-GF-A,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,JLC_MANUAL_ASSEMBLY_CANDIDATE,USB4105-GF-A,Top,2.500,49.000,270.0,Required fitted; manual/wave assembly and orientation review
+J10,B4B-PH-K-S(LF)(SN),JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical,JLC_MANUAL_ASSEMBLY_CANDIDATE,B4B-PH-K-S(LF)(SN),Top,14.000,66.000,0.0,Required fitted; manual/wave assembly and orientation review
+J20,1715734,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",JLC_MANUAL_ASSEMBLY_CANDIDATE,1715734,Top,75.500,7.500,0.0,Required fitted; manual/wave assembly and orientation review
+J40,1715734,"TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",JLC_MANUAL_ASSEMBLY_CANDIDATE,1715734,Top,83.000,27.000,0.0,Required fitted; manual/wave assembly and orientation review
+J60,RCJ-014,RCJ-014,JLC_MANUAL_ASSEMBLY_CANDIDATE,RCJ-014,Top,90.000,60.500,0.0,Required fitted; manual/wave assembly and orientation review
+JP20,CAN_HS TERM ENABLE,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,PCB_FEATURE,,Top,85.000,17.000,0.0,Fabricated pad/feature; not a purchased placement
+JP40,CAN_FT RTH ENABLE,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,PCB_FEATURE,,Top,75.000,36.000,0.0,Fabricated pad/feature; not a purchased placement
+JP41,CAN_FT RTL ENABLE,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,PCB_FEATURE,,Top,80.000,36.000,0.0,Fabricated pad/feature; not a purchased placement
+JP60,BUFFERED DC FIT,SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm,PCB_FEATURE,,Top,75.000,48.000,0.0,Fabricated pad/feature; not a purchased placement
+JP61,OUTPUT AC DNP,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,PCB_FEATURE,,Top,79.000,48.000,0.0,Fabricated pad/feature; not a purchased placement
+JP62,PASSIVE DNP,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,PCB_FEATURE,,Top,62.000,58.000,0.0,Fabricated pad/feature; not a purchased placement
+L1,2.2uH WPN4020H2R2MT,WPN4020H,JLC_SMT_CANDIDATE,WPN4020H2R2MT,Top,23.300,37.000,0.0,Candidate for JLC SMT assembly
+L2,1.5uH XGL4020-152MEC,L_Coilcraft_XxL4020,JLC_SMT_CANDIDATE,XGL4020-152MEC,Top,45.500,37.500,270.0,Candidate for JLC SMT assembly
+Q1,SS8050,SOT-23,JLC_SMT_CANDIDATE,SS8050(RANGE:300-400),Top,26.000,47.000,0.0,Candidate for JLC SMT assembly
+Q2,SS8050,SOT-23,JLC_SMT_CANDIDATE,SS8050(RANGE:300-400),Top,26.000,52.000,0.0,Candidate for JLC SMT assembly
+R1,5.1k 1%,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF5101T5E,Top,7.000,61.500,90.0,Candidate for JLC SMT assembly
+R2,5.1k 1%,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF5101T5E,Top,9.000,64.000,90.0,Candidate for JLC SMT assembly
+R3,1M,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1004T5E,Top,3.000,38.000,0.0,Candidate for JLC SMT assembly
+R4,0R DNP,R_0603_1608Metric,DNP,,Top,5.500,41.500,0.0,Do not populate in Revision A default build
+R5,22.1k 1%,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF2212T5E,Top,10.500,31.500,90.0,Candidate for JLC SMT assembly
+R6,47.5k 1%,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF4752T5E,Top,13.500,31.500,90.0,Candidate for JLC SMT assembly
+R7,1k,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1001T5E,Top,17.000,54.000,180.0,Candidate for JLC SMT assembly
+R8,28.7k 1%,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF2872T5E,Top,9.000,41.000,0.0,Candidate for JLC SMT assembly
+R9,10k,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1002T5E,Top,25.000,41.500,90.0,Candidate for JLC SMT assembly
+R10,100k,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1003T5E,Top,22.500,31.500,0.0,Candidate for JLC SMT assembly
+R11,10k,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1002T5E,Top,34.500,33.500,180.0,Candidate for JLC SMT assembly
+R12,680k 1%,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF6803T5E,Top,36.500,39.500,180.0,Candidate for JLC SMT assembly
+R13,130k 1%,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1303T5E,Top,36.500,41.500,0.0,Candidate for JLC SMT assembly
+R14,100k,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1003T5E,Top,36.000,37.250,180.0,Candidate for JLC SMT assembly
+R20,10k,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1002T5E,Top,37.000,47.000,0.0,Candidate for JLC SMT assembly
+R21,10k,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1002T5E,Top,37.000,50.000,0.0,Candidate for JLC SMT assembly
+R22,10k,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1002T5E,Top,32.000,51.000,0.0,Candidate for JLC SMT assembly
+R23,10k,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1002T5E,Top,22.000,54.500,0.0,Candidate for JLC SMT assembly
+R24,4.7k DNP,R_0603_1608Metric,DNP,,Top,24.000,62.000,0.0,Do not populate in Revision A default build
+R25,4.7k DNP,R_0603_1608Metric,DNP,,Top,28.000,59.500,0.0,Do not populate in Revision A default build
+R26,1k,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1001T5E,Top,12.000,23.000,180.0,Candidate for JLC SMT assembly
+R27,10k,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1002T5E,Top,40.500,29.500,0.0,Candidate for JLC SMT assembly
+R30,0R (CMC bypass),R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF0000T5E,Top,62.500,5.500,0.0,Candidate for JLC SMT assembly
+R31,0R (CMC bypass),R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF0000T5E,Top,62.500,9.500,0.0,Candidate for JLC SMT assembly
+R32,120R 1%,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1200T5E,Top,79.000,17.000,0.0,Candidate for JLC SMT assembly
+R40,10k,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1002T5E,Top,48.000,32.000,0.0,Candidate for JLC SMT assembly
+R41,10k,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1002T5E,Top,64.000,39.000,0.0,Candidate for JLC SMT assembly
+R42,10k,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1002T5E,Top,56.000,32.000,0.0,Candidate for JLC SMT assembly
+R43,10k,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1002T5E,Top,60.000,32.000,0.0,Candidate for JLC SMT assembly
+R44,10k,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1002T5E,Top,62.000,16.000,0.0,Candidate for JLC SMT assembly
+R45,10k,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1002T5E,Top,65.000,16.000,0.0,Candidate for JLC SMT assembly
+R46,0R (CMC bypass),R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF0000T5E,Top,73.000,19.000,0.0,Candidate for JLC SMT assembly
+R47,0R (CMC bypass),R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF0000T5E,Top,75.000,21.500,0.0,Candidate for JLC SMT assembly
+R48,1.2k 1% CONFIG,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1201T5E,Top,68.000,35.000,270.0,Candidate for JLC SMT assembly
+R49,1.2k 1% CONFIG,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1201T5E,Top,71.000,35.000,270.0,Candidate for JLC SMT assembly
+R50,10k,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF1002T5E,Top,40.000,25.000,0.0,Candidate for JLC SMT assembly
+R60,33R,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF330JT5E,Top,60.000,50.500,0.0,Candidate for JLC SMT assembly
+R61,0R DNP (DC INPUT),R_0603_1608Metric,DNP,,Top,64.000,55.000,0.0,Do not populate in Revision A default build
+R62,75R 1%,R_0603_1608Metric,JLC_SMT_CANDIDATE,0603WAF750JT5E,Top,79.000,52.000,0.0,Candidate for JLC SMT assembly
+R63,TBD DNP (PASSIVE),R_0603_1608Metric,DNP,,Top,59.000,55.000,0.0,Do not populate in Revision A default build
+SW1,RESET / EN,SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG,JLC_SMT_CANDIDATE,TL3301NF260QG,Top,33.500,65.000,0.0,Candidate for JLC SMT assembly
+SW2,BOOT,SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG,JLC_SMT_CANDIDATE,TL3301NF260QG,Top,45.500,65.000,0.0,Candidate for JLC SMT assembly
+SW3,USER,SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG,JLC_SMT_CANDIDATE,TL3301NF260QG,Top,57.500,65.000,0.0,Candidate for JLC SMT assembly
+TP1,VBUS_RAW,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,2.500,28.500,0.0,Fabricated pad/feature; not a purchased placement
+TP2,+5V_USB,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,13.000,34.000,0.0,Fabricated pad/feature; not a purchased placement
+TP3,+3V3,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,32.500,44.000,0.0,Fabricated pad/feature; not a purchased placement
+TP4,+5V_FT,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,51.000,37.500,0.0,Fabricated pad/feature; not a purchased placement
+TP5,GND,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,52.000,46.000,0.0,Fabricated pad/feature; not a purchased placement
+TP6,UART0_TX,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,30.500,37.500,0.0,Fabricated pad/feature; not a purchased placement
+TP7,UART0_RX,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,20.500,40.500,0.0,Fabricated pad/feature; not a purchased placement
+TP8,USB_PWR_FAULT,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,28.000,44.000,0.0,Fabricated pad/feature; not a purchased placement
+TP10,ESP_EN,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,35.000,60.000,0.0,Fabricated pad/feature; not a purchased placement
+TP11,ESP_GPIO0,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,39.000,60.000,0.0,Fabricated pad/feature; not a purchased placement
+TP12,DAC2_RESERVED,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,10.000,19.000,0.0,Fabricated pad/feature; not a purchased placement
+TP13,VIDEO_DAC,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,47.000,60.000,0.0,Fabricated pad/feature; not a purchased placement
+TP14,EXP_GPIO34,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,10.000,15.000,0.0,Fabricated pad/feature; not a purchased placement
+TP15,EXP_GPIO14,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,11.000,27.000,0.0,Fabricated pad/feature; not a purchased placement
+TP20,CAN_HS_H,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,58.000,1.500,0.0,Fabricated pad/feature; not a purchased placement
+TP21,CAN_HS_L,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,71.000,13.000,0.0,Fabricated pad/feature; not a purchased placement
+TP40,CAN_FT_H,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,86.000,38.000,0.0,Fabricated pad/feature; not a purchased placement
+TP41,CAN_FT_L,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,90.000,38.000,0.0,Fabricated pad/feature; not a purchased placement
+TP60,VIDEO_DAC,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,57.000,47.000,0.0,Fabricated pad/feature; not a purchased placement
+TP61,VIDEO_BUF_OUT,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,79.000,44.000,0.0,Fabricated pad/feature; not a purchased placement
+TP62,VIDEO_RCA,TestPoint_Pad_D1.0mm,PCB_FEATURE,,Top,84.000,44.000,0.0,Fabricated pad/feature; not a purchased placement
+U1,USBLC6-2SC6,SOT-23-6,JLC_SMT_CANDIDATE,USBLC6-2SC6,Top,11.000,49.000,0.0,Candidate for JLC SMT assembly
+U2,CP2102N-A02-GQFN28R,QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm,JLC_SMT_CANDIDATE,CP2102N-A02-GQFN28R,Top,19.000,49.000,0.0,Candidate for JLC SMT assembly
+U3,TPS2553DBVR,SOT-23-6,JLC_SMT_CANDIDATE,TPS2553DBVR,Top,9.000,36.500,0.0,Candidate for JLC SMT assembly
+U4,TPS62132RGTR,VQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm_ThermalVias,JLC_SMT_CANDIDATE,TPS62132RGTR,Top,18.500,37.000,180.0,Candidate for JLC SMT assembly
+U5,TPS63070RNMR,TI_RNM0015A_VQFN-HR-15,JLC_SMT_CANDIDATE,TPS63070RNMR,Top,41.000,37.500,0.0,Candidate for JLC SMT assembly
+U10,ESP32-WROOM-32E-N4,ESP32-WROOM-32E,JLC_SMT_CANDIDATE,ESP32-WROOM-32E-N4,Top,25.000,12.800,0.0,Candidate for JLC SMT assembly
+U20,TCAN332DR,SOIC-8_3.9x4.9mm_P1.27mm,JLC_SMT_CANDIDATE,TCAN332DR,Top,56.500,8.000,0.0,Candidate for JLC SMT assembly
+U40,MCP2515T-I/SO,SOIC-18W_7.5x11.6mm_P1.27mm,JLC_SMT_CANDIDATE,MCP2515T-I/SO,Top,55.000,23.500,0.0,Candidate for JLC SMT assembly
+U41,TJA1055T/3/2Z,SO-14_3.9x8.65mm_P1.27mm,JLC_SMT_CANDIDATE,TJA1055T/3/2Z,Top,66.500,23.500,0.0,Candidate for JLC SMT assembly
+U60,THS7314DR,SOIC-8_3.9x4.9mm_P1.27mm,JLC_SMT_CANDIDATE,THS7314DR,Top,71.000,52.000,0.0,Candidate for JLC SMT assembly
+Y40,ABM3BAIG-16.000MHZ-12-2-T,Crystal_SMD_5032-4Pin_5.0x3.2mm,JLC_SMT_CANDIDATE,ABM3BAIG-16.000MHZ-12-2-T,Top,46.000,25.500,90.0,Candidate for JLC SMT assembly

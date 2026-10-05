@@ -9,13 +9,13 @@
 ~*.lck
 fp-info-cache
 
-# Generated manufacturing files stay local until explicitly released
-manufacturing/generated/
-*.gbr
-*.drl
-*.pos
-*.step
-*.wrl
+## Generated manufacturing files stay local until explicitly released
+#manufacturing/generated/
+#*.gbr
+#*.drl
+#*.pos
+#*.step
+#*.wrl
 
 # OS/editor noise
 .venv/

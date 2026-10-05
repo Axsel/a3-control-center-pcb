@@ -1,0 +1,352 @@
+
+** (process:89276): CRITICAL **: 10:36:57.501: Unknown RS-274X extension found %TF% at line 1 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.501: Unknown RS-274X extension found %TF% at line 2 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.501: Unknown RS-274X extension found %TF% at line 3 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.501: Unknown RS-274X extension found %TF% at line 4 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.501: Unknown RS-274X extension found %TF% at line 5 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.501: Unknown RS-274X extension found %TF% at line 6 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TA% at line 17 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TD% at line 19 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TA% at line 20 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TD% at line 22 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TA% at line 23 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TD% at line 25 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TA% at line 26 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TD% at line 28 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TA% at line 29 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TD% at line 31 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TA% at line 32 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TD% at line 34 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TA% at line 35 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TD% at line 37 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TA% at line 38 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TD% at line 40 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TA% at line 41 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TD% at line 43 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TA% at line 44 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TD% at line 46 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TA% at line 47 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TD% at line 49 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TA% at line 50 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TD% at line 52 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TA% at line 53 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TD% at line 55 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TA% at line 56 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TD% at line 58 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TA% at line 59 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TD% at line 61 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TA% at line 62 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TD% at line 64 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.502: Unknown RS-274X extension found %TA% at line 65 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TD% at line 67 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 70 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 71 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 76 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 77 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TD% at line 79 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 81 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 82 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 85 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 86 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 88 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 89 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TD% at line 91 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 93 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 94 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 97 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 98 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 100 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 101 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TD% at line 103 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 105 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 106 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TD% at line 114 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 116 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 117 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TD% at line 130 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 132 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 133 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TD% at line 141 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 143 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 144 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 147 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.503: Unknown RS-274X extension found %TO% at line 148 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 150 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 151 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 153 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 154 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TD% at line 156 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 158 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 167 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 245 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 247 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 250 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 280 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 282 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 287 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 297 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 301 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 305 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 308 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 314 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 322 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 331 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 335 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 351 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 354 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 357 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 360 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 363 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 369 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 375 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 378 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 382 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 386 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 389 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 392 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 396 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 403 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.504: Unknown RS-274X extension found %TO% at line 411 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 414 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 417 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 420 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 423 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 426 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 432 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 435 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 438 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 443 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 447 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 450 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 453 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 456 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 459 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 468 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 475 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 481 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 488 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 492 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TD% at line 496 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 497 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 509 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 519 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 542 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 546 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 556 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 569 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 575 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 595 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 601 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 614 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 618 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.505: Unknown RS-274X extension found %TO% at line 622 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 665 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 674 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 677 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 680 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 705 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 708 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 719 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 724 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 729 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 736 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 751 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 766 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 769 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 778 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 781 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 786 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 791 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 794 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 802 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 812 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 815 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 818 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 831 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 846 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 859 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 872 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.506: Unknown RS-274X extension found %TO% at line 877 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.507: Unknown RS-274X extension found %TD% at line 892 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-B_Cu.gbl"
+
+** (process:89276): CRITICAL **: 10:36:57.507: Unknown RS-274X extension found %TF% at line 1 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"
+
+** (process:89276): CRITICAL **: 10:36:57.507: Unknown RS-274X extension found %TF% at line 2 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"
+
+** (process:89276): CRITICAL **: 10:36:57.507: Unknown RS-274X extension found %TF% at line 3 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"
+
+** (process:89276): CRITICAL **: 10:36:57.507: Unknown RS-274X extension found %TF% at line 4 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"
+
+** (process:89276): CRITICAL **: 10:36:57.507: Unknown RS-274X extension found %TF% at line 5 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"
+
+** (process:89276): CRITICAL **: 10:36:57.507: Unknown RS-274X extension found %TA% at line 13 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"
+
+** (process:89276): CRITICAL **: 10:36:57.507: Unknown RS-274X extension found %TD% at line 15 in file "/workspace/a3-control-center-pcb/manufacturing/generated/rev-a-audit/gerbers/dual_can_esp32-Edge_Cuts.gm1"
