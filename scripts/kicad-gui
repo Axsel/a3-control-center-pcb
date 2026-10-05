@@ -1,0 +1,41 @@
+#!/bin/sh
+set -eu
+
+# Launch a KiCad 10.0.6 GUI binary from the system Flatpak payload without
+# invoking Flatpak's unavailable container namespace setup. Set DISPLAY before
+# calling this wrapper (for example, to an Xvfb display).
+
+if [ "$#" -lt 1 ]; then
+    echo "usage: $0 <kicad|eeschema|pcbnew> [arguments...]" >&2
+    exit 2
+fi
+
+program=$1
+shift
+
+case "$program" in
+    kicad|eeschema|pcbnew) ;;
+    *)
+        echo "unsupported KiCad GUI program: $program" >&2
+        exit 2
+        ;;
+esac
+
+app_root=/var/lib/flatpak/app/org.kicad.KiCad/current/active/files
+runtime_root=/var/lib/flatpak/runtime/org.gnome.Sdk/aarch64/51/active/files
+symbols_root=/var/lib/flatpak/runtime/org.kicad.KiCad.Library.Symbols/aarch64/stable/active/files
+footprints_root=/var/lib/flatpak/runtime/org.kicad.KiCad.Library.Footprints/aarch64/stable/active/files
+models_root=/var/lib/flatpak/runtime/org.kicad.KiCad.Library.Packages3D/aarch64/stable/active/files
+
+export KICAD10_SYMBOL_DIR="$symbols_root/symbols"
+export KICAD10_FOOTPRINT_DIR="$footprints_root/footprints"
+export KICAD10_3DMODEL_DIR="$models_root/3dmodels"
+export KICAD10_TEMPLATE_DIR="$app_root/share/kicad/template"
+export XDG_DATA_DIRS="$app_root/share:$runtime_root/share:/usr/local/share:/usr/share"
+export PYTHONHOME="$runtime_root"
+export PYTHONPATH="$runtime_root/lib/python3.14:$runtime_root/lib/python3.14/lib-dynload:$runtime_root/lib/python3.14/site-packages:$app_root/lib/python3.14/site-packages"
+
+library_path="$app_root/lib:$app_root/lib/kicad:$runtime_root/lib/aarch64-linux-gnu:$runtime_root/lib"
+loader="$runtime_root/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1"
+
+exec "$loader" --library-path "$library_path" "$app_root/bin/$program" "$@"

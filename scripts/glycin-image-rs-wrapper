@@ -1,0 +1,11 @@
+#!/bin/sh
+set -eu
+
+# GTK launches this helper through `env -i`, so the Flatpak runtime loader and
+# libraries must be supplied explicitly when KiCad is run outside Flatpak.
+runtime_root=/var/lib/flatpak/runtime/org.gnome.Sdk/aarch64/51/active/files
+loader="$runtime_root/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1"
+library_path="$runtime_root/lib/aarch64-linux-gnu:$runtime_root/lib"
+binary="$runtime_root/libexec/glycin-loaders/2+/glycin-image-rs"
+
+exec "$loader" --library-path "$library_path" "$binary" "$@"

@@ -1,0 +1,17 @@
+# This implementation directly uses ESP32/I2S0 register definitions from
+# ESP-IDF 4.4. Pin the target and build for timing predictability.
+CONFIG_IDF_TARGET="esp32"
+CONFIG_COMPILER_OPTIMIZATION_PERF=y
+CONFIG_ESP32_DEFAULT_CPU_FREQ_240=y
+
+# Bench target does not need LVGL or the library's GPL test-image assets.
+CONFIG_VIDEO_ENABLE_LVGL_SUPPORT=n
+CONFIG_VIDEO_DIAG_DISPLAY_TEST_FUNC=n
+CONFIG_VIDEO_DIAG_ENABLE_INTERRUPT_STATS=n
+CONFIG_VIDEO_ENABLE_DIAG_PIN=n
+CONFIG_VIDEO_PAL_OFFSET_Y=11
+CONFIG_VIDEO_NTSC_OFFSET_Y=7
+
+# Project defaults: PAL and grayscale bars. Change with idf.py menuconfig.
+CONFIG_A3_VIDEO_STANDARD_PAL=y
+CONFIG_A3_VIDEO_PATTERN_BARS=y

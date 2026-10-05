@@ -1,0 +1,27 @@
+#!/bin/sh
+set -eu
+
+# KiCad 10.0.6 is installed as a system Flatpak. Docker does not permit the
+# namespace operation used by `flatpak run`, so invoke the application with
+# the matching Flatpak runtime loader and libraries directly.
+app_root=/var/lib/flatpak/app/org.kicad.KiCad/current/active/files
+runtime_root=/var/lib/flatpak/runtime/org.gnome.Sdk/aarch64/51/active/files
+symbols_root=/var/lib/flatpak/runtime/org.kicad.KiCad.Library.Symbols/aarch64/stable/active/files
+footprints_root=/var/lib/flatpak/runtime/org.kicad.KiCad.Library.Footprints/aarch64/stable/active/files
+models_root=/var/lib/flatpak/runtime/org.kicad.KiCad.Library.Packages3D/aarch64/stable/active/files
+
+if [ ! -x "$app_root/bin/kicad-cli" ]; then
+    echo "KiCad Flatpak executable not found: $app_root/bin/kicad-cli" >&2
+    exit 127
+fi
+
+export KICAD10_SYMBOL_DIR="$symbols_root/symbols"
+export KICAD10_FOOTPRINT_DIR="$footprints_root/footprints"
+export KICAD10_3DMODEL_DIR="$models_root/3dmodels"
+export KICAD10_TEMPLATE_DIR="$app_root/share/kicad/template"
+export XDG_DATA_DIRS="$app_root/share:$runtime_root/share:/usr/local/share:/usr/share"
+
+library_path="$app_root/lib:$app_root/lib/kicad:$runtime_root/lib/aarch64-linux-gnu:$runtime_root/lib"
+loader="$runtime_root/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1"
+
+exec "$loader" --library-path "$library_path" "$app_root/bin/kicad-cli" "$@"

@@ -1,0 +1,31 @@
+menu "A3 video bench"
+
+choice A3_VIDEO_STANDARD
+    prompt "Composite standard"
+    default A3_VIDEO_STANDARD_PAL
+
+    config A3_VIDEO_STANDARD_PAL
+        bool "PAL 320x200"
+
+    config A3_VIDEO_STANDARD_NTSC
+        bool "NTSC 320x200"
+endchoice
+
+choice A3_VIDEO_PATTERN
+    prompt "Static test pattern"
+    default A3_VIDEO_PATTERN_BARS
+
+    config A3_VIDEO_PATTERN_BLACK
+        bool "Black (sync and blanking check)"
+
+    config A3_VIDEO_PATTERN_WHITE
+        bool "White"
+
+    config A3_VIDEO_PATTERN_BARS
+        bool "Eight-step grayscale bars"
+
+    config A3_VIDEO_PATTERN_CHECKER
+        bool "Checkerboard"
+endchoice
+
+endmenu

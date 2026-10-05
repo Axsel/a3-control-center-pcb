@@ -1,0 +1,1107 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "d1e4d070-402f-4f49-ad17-13e9cb8dbf23")
+	(paper "A4")
+	(title_block
+		(title "dual_can_esp32")
+	)
+	(lib_symbols)
+	(text "Revision A schematic capture — reviewed hierarchical nets connect the functional sheets."
+		(exclude_from_sim no)
+		(at 110 24 0)
+		(effects
+			(font
+				(size 1.1 1.1)
+			)
+		)
+		(uuid "073ae656-cff1-41d9-9ac3-b370bf3dcebc")
+	)
+	(text "A3 CONTROL CENTER — ESP32 DUAL-CAN / OLED / COMPOSITE VIDEO"
+		(exclude_from_sim no)
+		(at 115 18 0)
+		(effects
+			(font
+				(size 2.2 2.2)
+				(bold yes)
+			)
+		)
+		(uuid "5687c39e-3f8c-4698-9700-84c59c4083dc")
+	)
+	(label "+3V3"
+		(at 210 90 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "01376df5-a1e4-4d85-937c-378600b10920")
+	)
+	(label "UART0_TX"
+		(at 42 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "04e87328-64ca-4ba5-9f61-024e7d8a654b")
+	)
+	(label "GND"
+		(at 34 90 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0f5cb0b3-ac1a-4ada-934a-38c0af0caaba")
+	)
+	(label "CAN_HS_TX"
+		(at 144 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0f8ab357-d03d-46c8-a942-7e4a879854ef")
+	)
+	(label "+5V_FT"
+		(at 34 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "15fd6791-35fb-4846-ad70-8dcf0a746419")
+	)
+	(label "UART0_TX"
+		(at 128 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1e2fd968-2380-4973-a05e-7d49b4b14708")
+	)
+	(label "UART0_RX"
+		(at 132 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "24080923-7691-4f22-8c11-31f9207d49ba")
+	)
+	(label "CAN_FT_MISO"
+		(at 136 90 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "276a94ec-b3ab-48e5-856b-11ca266cc929")
+	)
+	(label "GND"
+		(at 38 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2994aeaf-725c-48ea-b6e2-9aa2b2e7e032")
+	)
+	(label "CAN_FT_ERR"
+		(at 160 90 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "33b30f4f-d165-4980-b70d-9cef5479bda2")
+	)
+	(label "CAN_HS_RX"
+		(at 148 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3f046228-0956-460c-8d2d-43b45bf57ede")
+	)
+	(label "+5V_FT"
+		(at 124 90 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3ff848dd-ecba-4565-a50b-eeba44b0fbc4")
+	)
+	(label "UART0_RX"
+		(at 46 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4207ef04-d0c4-40b2-8c16-412a7a1214c2")
+	)
+	(label "CAN_FT_INT"
+		(at 148 90 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "52ccc877-fba8-463d-9b12-cdeee5dee6e4")
+	)
+	(label "CAN_FT_STB"
+		(at 172 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "543cac06-2887-4dc9-83fd-5b8fed6fc3a7")
+	)
+	(label "CAN_FT_EN"
+		(at 156 90 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5b84185a-b553-4189-863a-8c68c04fd142")
+	)
+	(label "CAN_FT_CS"
+		(at 144 90 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5cbf0e8d-d972-41a3-bed8-e66d55b215b9")
+	)
+	(label "USB_RTS"
+		(at 50 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6e9a22d1-896a-4760-b50c-91a7f85dbdb0")
+	)
+	(label "+3V3"
+		(at 30 90 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "710550f8-130f-49a9-b333-355af47ea0fe")
+	)
+	(label "CAN_FT_STB"
+		(at 152 90 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "73fa7c4f-64d8-44b0-b91c-6beb68949c9f")
+	)
+	(label "VIDEO_DAC"
+		(at 218 90 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7df27b24-ea67-43a4-80a3-3307e84c5a3a")
+	)
+	(label "CAN_FT_CS"
+		(at 164 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "86a88e0d-dfd6-4ba8-b403-f45480909ed3")
+	)
+	(label "CAN_FT_SCK"
+		(at 160 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8f2da5f9-2a8c-4102-afdd-e8f504578a61")
+	)
+	(label "GND"
+		(at 124 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "96776143-6f98-4870-ab0e-ed5401b79e2a")
+	)
+	(label "USB_DTR"
+		(at 54 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "99750d35-6a30-4789-8139-9710d9c91a65")
+	)
+	(label "+3V3"
+		(at 30 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9ea4b0fe-37c4-4296-96af-86e795099f31")
+	)
+	(label "CAN_FT_SCK"
+		(at 140 90 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a0da96a5-d241-4677-8e9e-dcdb4143823d")
+	)
+	(label "GND"
+		(at 214 90 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b17eeff4-52b7-4282-b6ba-558dc25a28c2")
+	)
+	(label "CAN_HS_RX"
+		(at 42 90 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b403db3e-ba79-41d4-8e2f-378ca27fcbb2")
+	)
+	(label "CAN_FT_INT"
+		(at 168 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b4d98df5-2a6e-451d-a35d-53eb6ca96acb")
+	)
+	(label "USB_RTS"
+		(at 136 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b6fbd286-a1bd-4e7a-b040-3ad8f6c8d049")
+	)
+	(label "CAN_FT_ERR"
+		(at 180 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b7a21b8c-7d92-46d5-aaaa-59ffdeeea9b3")
+	)
+	(label "CAN_HS_TX"
+		(at 38 90 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c29611d3-9eb6-4999-a2a0-669d322f0096")
+	)
+	(label "+3V3"
+		(at 120 90 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c721ff52-e351-47b3-b199-5afdefb1fe08")
+	)
+	(label "CAN_FT_MISO"
+		(at 156 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cd25e1d7-0d36-4a0b-9f36-548f48436314")
+	)
+	(label "VIDEO_DAC"
+		(at 184 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dc9801f0-002d-465f-ac1d-498253d019fa")
+	)
+	(label "CAN_FT_MOSI"
+		(at 152 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e49665cb-2b09-4578-b860-e23c1dc76b9a")
+	)
+	(label "CAN_FT_EN"
+		(at 176 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f234146c-ba11-4a5f-b561-70c50aa313ea")
+	)
+	(label "CAN_FT_MOSI"
+		(at 132 90 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f71d8566-7729-437b-8415-da36dc1f3cbf")
+	)
+	(label "GND"
+		(at 128 90 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f758e277-c1b1-4606-8bbb-10d7e47bf099")
+	)
+	(label "+3V3"
+		(at 120 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fb1e07e4-0130-4b49-91d5-612502353786")
+	)
+	(label "USB_DTR"
+		(at 140 38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fd89fa04-5198-4754-af41-602d58b87dfd")
+	)
+	(sheet
+		(at 115 90)
+		(size 75 35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "0889dfc9-2078-48b4-8414-8b889a7252fd")
+		(property "Sheetname" "CAN_FT"
+			(at 115 89.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dual_can_esp32_can_ft.kicad_sch"
+			(at 115 125.5846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "+3V3" passive
+			(at 120 90 90)
+			(uuid "f4323e7b-d0a4-435d-97a7-bf37c779cb25")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "+5V_FT" passive
+			(at 124 90 90)
+			(uuid "323850ed-481e-4736-904d-d03d9b78e5c9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GND" passive
+			(at 128 90 90)
+			(uuid "25df34fa-3bd6-4bef-84bb-ebc6851bdec7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_FT_MOSI" passive
+			(at 132 90 90)
+			(uuid "d26d7c29-e301-46ad-96e4-5498da9a0d2d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_FT_MISO" passive
+			(at 136 90 90)
+			(uuid "ef85e2df-76d4-4084-846a-f665aa297539")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_FT_SCK" passive
+			(at 140 90 90)
+			(uuid "ff29f969-0bbe-41d5-b374-f64ed995ec0c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_FT_CS" passive
+			(at 144 90 90)
+			(uuid "fdba916d-377e-40d2-96b8-32e6f9f20fde")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_FT_INT" passive
+			(at 148 90 90)
+			(uuid "ba854a20-07cd-468e-bc46-f6b551a8bb7e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_FT_STB" passive
+			(at 152 90 90)
+			(uuid "57270252-29f7-4c4b-81ab-d4bd130e9f89")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_FT_EN" passive
+			(at 156 90 90)
+			(uuid "d2a008d4-3f9d-42fe-b71d-b2b3b797899a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_FT_ERR" passive
+			(at 160 90 90)
+			(uuid "04a80371-5818-4c3f-8c80-be9ab23f7b41")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "dual_can_esp32"
+				(path "/d1e4d070-402f-4f49-ad17-13e9cb8dbf23"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 205 90)
+		(size 75 35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "3135bf22-63df-4002-b5da-1067976d00d4")
+		(property "Sheetname" "Composite Video"
+			(at 205 89.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dual_can_esp32_video.kicad_sch"
+			(at 205 125.5846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "+3V3" passive
+			(at 210 90 90)
+			(uuid "52f4dd04-0231-4e82-8aba-02cdeb95a682")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GND" passive
+			(at 214 90 90)
+			(uuid "eae00f0a-b81c-4dfc-8c14-fa0bac2b7e41")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VIDEO_DAC" passive
+			(at 218 90 90)
+			(uuid "14f662b9-f680-4b00-a436-769b69ead965")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "dual_can_esp32"
+				(path "/d1e4d070-402f-4f49-ad17-13e9cb8dbf23"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25 90)
+		(size 75 35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "3b562616-2796-4084-9ecd-e5224208050d")
+		(property "Sheetname" "CAN_HS"
+			(at 25 89.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dual_can_esp32_can_hs.kicad_sch"
+			(at 25 125.5846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "+3V3" passive
+			(at 30 90 90)
+			(uuid "921a153a-07d6-485d-bf6d-79e89a411c78")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GND" passive
+			(at 34 90 90)
+			(uuid "cc48d2a4-23a2-4b6f-b4a4-d7aecfdb5bdb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_HS_TX" passive
+			(at 38 90 90)
+			(uuid "3d957bc9-0010-4938-8a21-57fb47bc8203")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_HS_RX" passive
+			(at 42 90 90)
+			(uuid "c5284484-42aa-4be1-be11-4a8a06847b9e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "dual_can_esp32"
+				(path "/d1e4d070-402f-4f49-ad17-13e9cb8dbf23"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25 38)
+		(size 75 35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "aabf6a87-9e34-41be-8d0b-e9e9d584f1fb")
+		(property "Sheetname" "USB + Power"
+			(at 25 37.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dual_can_esp32_power_usb.kicad_sch"
+			(at 25 73.5846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "+3V3" passive
+			(at 30 38 90)
+			(uuid "37f4f210-4abc-4de0-9ce6-a09a7f5c2ccf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "+5V_FT" passive
+			(at 34 38 90)
+			(uuid "74fe247f-588a-4dcf-82e2-6c7b636acfd8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GND" passive
+			(at 38 38 90)
+			(uuid "2379a300-4a91-4804-8062-d7c921035229")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART0_TX" passive
+			(at 42 38 90)
+			(uuid "85fb496d-586b-4645-957f-83bef435bff7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART0_RX" passive
+			(at 46 38 90)
+			(uuid "39869366-e593-4e17-bc04-98bbb71e4fec")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_RTS" passive
+			(at 50 38 90)
+			(uuid "c7a88cd9-643d-44c6-9347-978e4466f31d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_DTR" passive
+			(at 54 38 90)
+			(uuid "7ff529ec-8bcf-4a9a-bcf5-d5f82da427be")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "dual_can_esp32"
+				(path "/d1e4d070-402f-4f49-ad17-13e9cb8dbf23"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 115 38)
+		(size 75 35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c2331ed2-7415-4867-b721-3035c795f1ec")
+		(property "Sheetname" "ESP32 + UI"
+			(at 115 37.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dual_can_esp32_mcu_ui.kicad_sch"
+			(at 115 73.5846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "+3V3" passive
+			(at 120 38 90)
+			(uuid "b7477209-1014-48a0-a71b-033920de7010")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GND" passive
+			(at 124 38 90)
+			(uuid "68b0f8bc-52f4-44a2-a218-c71f69bd7f55")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART0_TX" passive
+			(at 128 38 90)
+			(uuid "93d477bf-5ac8-42d2-96c6-4e37d3e39aee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART0_RX" passive
+			(at 132 38 90)
+			(uuid "f679002d-e25f-4ee4-b749-86030f25d714")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_RTS" passive
+			(at 136 38 90)
+			(uuid "398ffc23-2991-4d3a-8d3b-0458fc923b76")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_DTR" passive
+			(at 140 38 90)
+			(uuid "51264497-c381-40b1-849a-85a512842f13")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_HS_TX" passive
+			(at 144 38 90)
+			(uuid "595b6cc6-a120-4a9e-8642-261acc86d394")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_HS_RX" passive
+			(at 148 38 90)
+			(uuid "bd3aa79e-7414-4d7b-a840-a968ec24e25a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_FT_MOSI" passive
+			(at 152 38 90)
+			(uuid "e8c0a478-a29d-4da4-964f-ad4622c1c209")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_FT_MISO" passive
+			(at 156 38 90)
+			(uuid "3683254d-59c0-41d2-a20d-b310553eca7d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_FT_SCK" passive
+			(at 160 38 90)
+			(uuid "37e5db95-491d-404b-bde9-42e7d99cac14")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_FT_CS" passive
+			(at 164 38 90)
+			(uuid "c89e60f0-b734-4609-bb77-130974c27365")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_FT_INT" passive
+			(at 168 38 90)
+			(uuid "4784fb04-3bd3-43d5-a913-35b8a6e357da")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_FT_STB" passive
+			(at 172 38 90)
+			(uuid "4bf72dbc-4b4f-4404-ae5f-0cba4707da4b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_FT_EN" passive
+			(at 176 38 90)
+			(uuid "755b8c8d-1b82-4faa-8b5a-d2574a9698a0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_FT_ERR" passive
+			(at 180 38 90)
+			(uuid "6d27adee-c8e9-4c64-9557-64e86f1d6ca7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VIDEO_DAC" passive
+			(at 184 38 90)
+			(uuid "364942a0-217b-418a-97e1-003af47da34b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "dual_can_esp32"
+				(path "/d1e4d070-402f-4f49-ad17-13e9cb8dbf23"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

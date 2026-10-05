@@ -1,0 +1,33 @@
+# KiCad backups, caches, locks, and generated outputs
+*-backups/
+*.bak
+*.bck
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.lck
+~*.lck
+fp-info-cache
+
+# Generated manufacturing files stay local until explicitly released
+manufacturing/generated/
+*.gbr
+*.drl
+*.pos
+*.step
+*.wrl
+
+# OS/editor noise
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.swp
+*~
+
+# ESP-IDF bench dependencies and build state
+firmware/video/bench/components/
+firmware/video/bench/build*/
+firmware/video/bench/sdkconfig
+firmware/video/bench/sdkconfig.old
+.tools/

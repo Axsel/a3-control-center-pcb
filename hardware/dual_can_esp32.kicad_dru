@@ -1,0 +1,24 @@
+(version 1)
+
+(rule "JLC four-layer copper clearance"
+	(constraint clearance (min 0.15mm))
+)
+
+# More-specific rules must follow the global rule in KiCad's evaluation order.
+(rule "TI RNM0015A fine-pitch pads"
+	(condition "A.Reference == 'U5' && B.Reference == 'U5'")
+	(constraint clearance (min 0.09mm))
+)
+
+(rule "JLC preferred track width"
+	(constraint track_width (min 0.15mm))
+)
+
+(rule "JLC preferred four-layer via"
+	(constraint via_diameter (min 0.45mm))
+	(constraint hole_size (min 0.20mm))
+)
+
+(rule "Conservative routed-edge clearance"
+	(constraint edge_clearance (min 0.50mm))
+)

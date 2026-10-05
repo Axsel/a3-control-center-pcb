@@ -1,0 +1,8 @@
+#!/bin/sh
+# Run Python with the KiCad 10 Flatpak runtime and pcbnew bindings.
+exec env \
+  PYTHONPATH=/var/lib/flatpak/app/org.kicad.KiCad/current/active/files/lib/python3.14/site-packages \
+  XDG_DATA_DIRS=/var/lib/flatpak/app/org.kicad.KiCad/current/active/files/share:/var/lib/flatpak/runtime/org.gnome.Sdk/aarch64/51/active/files/share \
+  /var/lib/flatpak/runtime/org.gnome.Sdk/aarch64/51/active/files/lib/aarch64-linux-gnu/ld-linux-aarch64.so.1 \
+  --library-path /var/lib/flatpak/app/org.kicad.KiCad/current/active/files/lib:/var/lib/flatpak/app/org.kicad.KiCad/current/active/files/lib/kicad:/var/lib/flatpak/runtime/org.gnome.Sdk/aarch64/51/active/files/lib/aarch64-linux-gnu:/var/lib/flatpak/runtime/org.gnome.Sdk/aarch64/51/active/files/lib \
+  /var/lib/flatpak/runtime/org.gnome.Sdk/aarch64/51/active/files/bin/python3.14 "$@"
