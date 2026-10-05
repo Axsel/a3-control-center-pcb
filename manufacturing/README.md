@@ -5,7 +5,8 @@
 - all four copper layers, masks, paste, legends, and board-edge Gerbers;
 - plated/non-plated drill files, drill maps, and drill report;
 - ERC, DRC, IPC-D-356, and board-statistics reports;
-- top/bottom renders, top assembly drawing, and STEP mechanical export;
+- top/bottom renders, top assembly drawing and preview, STEP mechanical export,
+  complete schematic PDF and per-sheet SVG/PNG previews;
 - an A4, 1:1 front-fabrication connector-fit PDF (print at Actual size / 100%);
 - raw KiCad BOM/position exports for comparison only; and
 - an explicit population manifest plus candidate JLCPCB BOM/CPL files generated
@@ -20,7 +21,8 @@ sheet; compare it line by line with the final quotation.
 the mixed SMT/PTH connector process, mandatory THT population, J60 wave
 assembly, U5 custom lands, and exact constrained-part sourcing.
 
-This directory is ignored by Git and is **not a manufacturing release**. The
+The current `generated/rev-a-audit/` snapshot is tracked for design review and
+quick repository access, but it is **not a manufacturing release**. The
 candidate JLC files must not be uploaded while `assembly/jlc-readiness.txt`
 reports `NOT READY FOR PCBA UPLOAD`. C1 and the former J60/L1/L2 shortages now
 have controlled replacements. Complete manual/wave assembly handling for

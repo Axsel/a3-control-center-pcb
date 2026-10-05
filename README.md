@@ -32,6 +32,11 @@ manual/wave assembly; the user is not expected to solder connectors.
 An independent layer-by-layer Gerber/drill render review is also complete, with
 its evidence and limitations recorded in `docs/rev-a-fabrication-review.md`.
 
+For quick repository browsing, see the
+[Revision A rendered views](docs/revision-a-rendered-views.md), including the
+complete schematic PDF, per-sheet previews, PCB top/bottom renders, assembly
+drawing, and fabrication-layer images.
+
 The originally requested ESP32-WROOM-32 was replaced with the manufacturer-
 recommended `ESP32-WROOM-32E-N4` after project-owner authorization. The change
 preserves the classic ESP32 architecture, 4 MB flash, PCB antenna, DAC1/DAC2,
@@ -46,7 +51,8 @@ manufacturer land pattern and antenna keepout for the 32E are mandatory.
 - `bom/`: controlled, provisional BOM
 - `firmware/`: synchronized GPIO contract and video feasibility notes
 - `scripts/`: KiCad CLI wrapper plus validation/export automation
-- `manufacturing/`: controlled release area; generated files are ignored
+- `manufacturing/`: controlled release area plus the tracked Revision A audit
+  snapshot used by the rendered-view index
 
 The remaining JLC engineering and global-sourcing questions are consolidated
 in `manufacturing/jlcpcb-support-request.md` for submission before payment.
